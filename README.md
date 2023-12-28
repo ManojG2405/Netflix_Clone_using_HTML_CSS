@@ -1,5 +1,5 @@
 Here's the Project Link: 
-<a href="Netflix_Clone_using_HTML_CSS" target="_blank">BreadcrumbsNetflix_Clone_using_HTML_CSS
+<a href="https://manojg2405.github.io/Netflix_Clone_using_HTML_CSS" target="_blank">Netflix_Clone_using_HTML_CSS
 </a>
 
 <h1>Project Preview</h1>
